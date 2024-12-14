@@ -53,7 +53,7 @@ isFeatured: false
 isDraft: false
 seo:
   type: Seo
-  metaTitle: lorem-ipsum
+  metaTitle: Choosing the Right Commercial Laundry Equipment
   metaDescription: lorem-ipsum
   addTitleSuffix: false
   metaTags: []
