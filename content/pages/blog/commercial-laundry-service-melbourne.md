@@ -3,9 +3,7 @@ type: PostLayout
 title: Top Commercial Laundry Service Melbourne
 date: '2024-12-14'
 author: content/data/person1.json
-excerpt: >-
-  Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper.
-  Donec sed facilisis nibh.
+excerpt: commercial laundry service melbourne
 featuredImage:
   type: ImageBlock
   url: /images/pexels-ekaterinabelinskaya-4700389.jpg
