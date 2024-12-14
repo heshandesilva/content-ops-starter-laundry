@@ -57,6 +57,7 @@ seo:
   metaDescription: lorem-ipsum
   addTitleSuffix: false
   metaTags: []
+  socialImage: /images/pexels-ekaterinabelinskaya-4700389.jpg
 colors: bg-light-fg-dark
 styles:
   self:
