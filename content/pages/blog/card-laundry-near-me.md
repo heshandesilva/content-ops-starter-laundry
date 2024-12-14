@@ -8,8 +8,8 @@ excerpt: >-
   Donec sed facilisis nibh.
 featuredImage:
   type: ImageBlock
-  url: /images/abstract-feature1.svg
-  altText: Thumbnail
+  url: /images/pexels-ekaterinabelinskaya-4700400.jpg
+  altText: Exploring Melbourne's Best Card Laundry Options
   elementId: ''
   styles:
     self:
@@ -55,10 +55,11 @@ isFeatured: false
 isDraft: false
 seo:
   type: Seo
-  metaTitle: lorem-ipsum
+  metaTitle: Exploring Melbourne's Best Card Laundry Options
   metaDescription: lorem-ipsum
-  addTitleSuffix: false
+  addTitleSuffix: true
   metaTags: []
+  socialImage: /images/pexels-ekaterinabelinskaya-4700400.jpg
 colors: bg-light-fg-dark
 styles:
   self:
