@@ -55,7 +55,7 @@ seo:
   type: Seo
   metaTitle: Self Service Laundry Northcote
   metaDescription: lorem-ipsum
-  addTitleSuffix: false
+  addTitleSuffix: true
   metaTags: []
   socialImage: /images/pexels-markus-winkler-1430818-3639870.jpg
 colors: bg-light-fg-dark
