@@ -9,7 +9,7 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: /images/pexels-markus-winkler-1430818-3639870.jpg
-  altText: Thumbnail
+  altText: Self Service Laundry Northcote
   elementId: ''
   styles:
     self:
