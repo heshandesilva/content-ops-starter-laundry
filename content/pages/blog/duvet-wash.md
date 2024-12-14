@@ -55,7 +55,7 @@ seo:
   type: Seo
   metaTitle: Essential Guide to Washing Your Duvet
   metaDescription: lorem-ipsum
-  addTitleSuffix: false
+  addTitleSuffix: true
   metaTags: []
 colors: bg-light-fg-dark
 styles:
