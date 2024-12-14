@@ -9,7 +9,7 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: /images/douglas-monterrosa-rHKYg9rb074-unsplash.jpg
-  altText: Thumbnail
+  altText: Benefits of Using Commercial Laundry Services
   elementId: ''
   styles:
     self:
