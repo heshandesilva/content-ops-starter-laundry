@@ -57,7 +57,7 @@ seo:
   type: Seo
   metaTitle: Exploring Melbourne's Best Card Laundry Options
   metaDescription: lorem-ipsum
-  addTitleSuffix: false
+  addTitleSuffix: true
   metaTags: []
 colors: bg-light-fg-dark
 styles:
