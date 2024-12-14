@@ -91,7 +91,7 @@ isFeatured: false
 isDraft: false
 seo:
   type: Seo
-  metaTitle: lorem-ipsum
+  metaTitle: Benefits of Using Commercial Laundry Services
   metaDescription: lorem-ipsum
   addTitleSuffix: false
   metaTags: []
