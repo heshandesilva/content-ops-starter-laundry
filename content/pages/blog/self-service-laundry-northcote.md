@@ -3,9 +3,7 @@ type: PostLayout
 title: Self Service Laundry Northcote
 date: '2024-12-14'
 author: content/data/person1.json
-excerpt: >-
-  Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper.
-  Donec sed facilisis nibh.
+excerpt: Self Service Laundry Northcote
 featuredImage:
   type: ImageBlock
   url: /images/pexels-markus-winkler-1430818-3639870.jpg
