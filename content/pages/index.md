@@ -232,7 +232,7 @@ sections:
       you can focus on growing your business and exceeding your goals.
     media:
       title: Title of the video
-      url: /images/placeholder-video.mp4
+      url: 'https://youtu.be/bEMHOvisFV0'
       controls: false
       aspectRatio: '16:9'
       styles:
