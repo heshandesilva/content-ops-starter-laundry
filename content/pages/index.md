@@ -59,6 +59,7 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
+      url: /images/douglas-monterrosa-rHKYg9rb074-unsplash.jpg
   - type: FeaturedItemsSection
     title:
       text: Key Benefits
