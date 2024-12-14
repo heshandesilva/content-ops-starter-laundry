@@ -9,7 +9,7 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: /images/pexels-karolina-grabowska-4210376.jpg
-  altText: Thumbnail
+  altText: Benefits of Using a Towel Laundry Service
   elementId: ''
   styles:
     self:
