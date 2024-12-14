@@ -9,7 +9,7 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: /images/pexels-tima-miroshnichenko-8774414.jpg
-  altText: Thumbnail
+  altText: commercial laundry equipment
   elementId: ''
   styles:
     self:
