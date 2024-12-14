@@ -3,9 +3,7 @@ type: PostLayout
 title: Choosing the Right Commercial Laundry Equipment
 date: '2024-12-14'
 author: content/data/person1.json
-excerpt: >-
-  Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper.
-  Donec sed facilisis nibh.
+excerpt: commercial laundry equipment
 featuredImage:
   type: ImageBlock
   url: /images/pexels-tima-miroshnichenko-8774414.jpg
