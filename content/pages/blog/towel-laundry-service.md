@@ -59,6 +59,7 @@ seo:
   metaDescription: lorem-ipsum
   addTitleSuffix: true
   metaTags: []
+  socialImage: /images/pexels-karolina-grabowska-4210376.jpg
 colors: bg-light-fg-dark
 styles:
   self:
