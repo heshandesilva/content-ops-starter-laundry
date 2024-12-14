@@ -8,8 +8,8 @@ excerpt: >-
   Donec sed facilisis nibh.
 featuredImage:
   type: ImageBlock
-  url: /images/abstract-feature1.svg
-  altText: Thumbnail
+  url: /images/pexels-ekaterinabelinskaya-4700389.jpg
+  altText: commercial laundry service melbourne
   elementId: ''
   styles:
     self:
