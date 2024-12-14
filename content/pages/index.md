@@ -279,9 +279,7 @@ sections:
     title: null
     subtitle: What our customers say about us
     items:
-      - title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
+      - title: "I recently used a laundry service that exceeded my expectations. The staff was friendly and efficient, ensuring my clothes were cleaned to perfection.\_ I highly recommend this service for anyone looking to simplify their laundry routine!"
         tagline: Testimonial 1
         subtitle: 'Maria Walters, Company'
         text: >-
