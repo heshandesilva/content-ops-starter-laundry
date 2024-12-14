@@ -3,9 +3,7 @@ type: PostLayout
 title: Benefits of Using a Towel Laundry Service
 date: '2024-12-14'
 author: content/data/person1.json
-excerpt: >-
-  Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper.
-  Donec sed facilisis nibh.
+excerpt: Benefits of Using a Towel Laundry Service
 featuredImage:
   type: ImageBlock
   url: /images/pexels-karolina-grabowska-4210376.jpg
