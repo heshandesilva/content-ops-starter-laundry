@@ -3,13 +3,11 @@ type: PostLayout
 title: Essential Guide to Washing Your Duvet
 date: '2024-12-14'
 author: content/data/person1.json
-excerpt: >-
-  Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper.
-  Donec sed facilisis nibh.
+excerpt: Essential Guide to Washing Your Duvet
 featuredImage:
   type: ImageBlock
-  url: /images/abstract-feature1.svg
-  altText: Thumbnail
+  url: /images/duvet wash.jpg
+  altText: Essential Guide to Washing Your Duvet
   elementId: ''
   styles:
     self:
@@ -55,10 +53,11 @@ isFeatured: false
 isDraft: false
 seo:
   type: Seo
-  metaTitle: lorem-ipsum
+  metaTitle: Essential Guide to Washing Your Duvet
   metaDescription: lorem-ipsum
-  addTitleSuffix: false
+  addTitleSuffix: true
   metaTags: []
+  socialImage: /images/duvet wash.jpg
 colors: bg-light-fg-dark
 styles:
   self:
