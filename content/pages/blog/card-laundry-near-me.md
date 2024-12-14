@@ -55,7 +55,7 @@ isFeatured: false
 isDraft: false
 seo:
   type: Seo
-  metaTitle: lorem-ipsum
+  metaTitle: Exploring Melbourne's Best Card Laundry Options
   metaDescription: lorem-ipsum
   addTitleSuffix: false
   metaTags: []
