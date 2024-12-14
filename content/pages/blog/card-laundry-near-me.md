@@ -9,7 +9,7 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: /images/pexels-ekaterinabelinskaya-4700400.jpg
-  altText: Thumbnail
+  altText: Exploring Melbourne's Best Card Laundry Options
   elementId: ''
   styles:
     self:
