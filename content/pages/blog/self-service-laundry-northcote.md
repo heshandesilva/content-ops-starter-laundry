@@ -53,7 +53,7 @@ isFeatured: false
 isDraft: false
 seo:
   type: Seo
-  metaTitle: lorem-ipsum
+  metaTitle: Self Service Laundry Northcote
   metaDescription: lorem-ipsum
   addTitleSuffix: false
   metaTags: []
