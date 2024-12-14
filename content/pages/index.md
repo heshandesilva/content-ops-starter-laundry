@@ -8,10 +8,11 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Professional Laundry Solutions Tailored to Your Needs
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: >+
+      We empowers businesses with fast, reliable, and efficient commercial
+      laundry services. From hotels to healthcare, we handle it all with
+      cutting-edge technology and eco-friendly practices.
+
     actions:
       - label: Get started
         altText: ''
