@@ -9,7 +9,7 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: /images/pexels-ekaterinabelinskaya-4700389.jpg
-  altText: Thumbnail
+  altText: commercial laundry service melbourne
   elementId: ''
   styles:
     self:
