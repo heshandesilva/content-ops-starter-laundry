@@ -57,6 +57,7 @@ seo:
   metaDescription: lorem-ipsum
   addTitleSuffix: true
   metaTags: []
+  socialImage: /images/pexels-tima-miroshnichenko-8774414.jpg
 colors: bg-light-fg-dark
 styles:
   self:
