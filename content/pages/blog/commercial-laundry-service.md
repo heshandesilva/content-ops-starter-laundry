@@ -93,7 +93,7 @@ seo:
   type: Seo
   metaTitle: Benefits of Using Commercial Laundry Services
   metaDescription: lorem-ipsum
-  addTitleSuffix: false
+  addTitleSuffix: true
   metaTags: []
   socialImage: /images/douglas-monterrosa-rHKYg9rb074-unsplash.jpg
 colors: bg-light-fg-dark
