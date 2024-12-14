@@ -58,7 +58,7 @@ sections:
       backgroundSize: auto
       backgroundPosition: center
       backgroundRepeat: no-repeat
-      opacity: 100
+      opacity: 28
       url: /images/douglas-monterrosa-rHKYg9rb074-unsplash.jpg
   - type: FeaturedItemsSection
     title:
