@@ -55,10 +55,11 @@ isFeatured: false
 isDraft: false
 seo:
   type: Seo
-  metaTitle: lorem-ipsum
+  metaTitle: Benefits of Using a Towel Laundry Service
   metaDescription: lorem-ipsum
-  addTitleSuffix: false
+  addTitleSuffix: true
   metaTags: []
+  socialImage: /images/pexels-karolina-grabowska-4210376.jpg
 colors: bg-light-fg-dark
 styles:
   self:
