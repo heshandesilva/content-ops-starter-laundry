@@ -9,7 +9,7 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: /images/duvet wash.jpg
-  altText: Thumbnail
+  altText: Essential Guide to Washing Your Duvet
   elementId: ''
   styles:
     self:
