@@ -73,10 +73,10 @@ sections:
       - type: FeaturedItem
         title: 500k
         subtitle: Items Cleaned
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          We’ve successfully handled over 500 laundry items for businesses of
+          all sizes, ensuring spotless results every time.
+
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
