@@ -55,7 +55,7 @@ seo:
   type: Seo
   metaTitle: Choosing the Right Commercial Laundry Equipment
   metaDescription: lorem-ipsum
-  addTitleSuffix: false
+  addTitleSuffix: true
   metaTags: []
 colors: bg-light-fg-dark
 styles:
