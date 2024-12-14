@@ -53,10 +53,11 @@ isFeatured: false
 isDraft: false
 seo:
   type: Seo
-  metaTitle: lorem-ipsum
+  metaTitle: Choosing the Right Commercial Laundry Equipment
   metaDescription: lorem-ipsum
-  addTitleSuffix: false
+  addTitleSuffix: true
   metaTags: []
+  socialImage: /images/pexels-tima-miroshnichenko-8774414.jpg
 colors: bg-light-fg-dark
 styles:
   self:
