@@ -95,6 +95,7 @@ seo:
   metaDescription: lorem-ipsum
   addTitleSuffix: false
   metaTags: []
+  socialImage: /images/douglas-monterrosa-rHKYg9rb074-unsplash.jpg
 colors: bg-light-fg-dark
 styles:
   self:
