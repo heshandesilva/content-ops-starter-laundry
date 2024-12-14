@@ -57,6 +57,7 @@ seo:
   metaDescription: lorem-ipsum
   addTitleSuffix: true
   metaTags: []
+  socialImage: /images/duvet wash.jpg
 colors: bg-light-fg-dark
 styles:
   self:
