@@ -14,7 +14,7 @@ sections:
       cutting-edge technology and eco-friendly practices.
 
     actions:
-      - label: Get started
+      - label: Get a Quote
         altText: ''
         url: /
         showIcon: false
