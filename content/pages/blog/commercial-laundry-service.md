@@ -3,9 +3,7 @@ type: PostLayout
 title: Benefits of Using Commercial Laundry Services
 date: '2024-12-14'
 author: content/data/person1.json
-excerpt: >-
-  Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper.
-  Donec sed facilisis nibh.
+excerpt: Benefits of Using Commercial Laundry Services
 featuredImage:
   type: ImageBlock
   url: /images/douglas-monterrosa-rHKYg9rb074-unsplash.jpg
