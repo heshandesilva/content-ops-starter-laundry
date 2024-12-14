@@ -53,7 +53,7 @@ isFeatured: false
 isDraft: false
 seo:
   type: Seo
-  metaTitle: lorem-ipsum
+  metaTitle: Essential Guide to Washing Your Duvet
   metaDescription: lorem-ipsum
   addTitleSuffix: false
   metaTags: []
