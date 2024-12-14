@@ -126,10 +126,10 @@ sections:
         type: FeaturedItem
       - title: 200%
         subtitle: Boost in Productivity
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+
+          With our services, your team can focus on what matters most, while we
+          take care of the laundry needs.
         image:
           url: /images/icon3.svg
           altText: Featured icon three
