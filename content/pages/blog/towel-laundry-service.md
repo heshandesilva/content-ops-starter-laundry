@@ -55,7 +55,7 @@ isFeatured: false
 isDraft: false
 seo:
   type: Seo
-  metaTitle: lorem-ipsum
+  metaTitle: Benefits of Using a Towel Laundry Service
   metaDescription: lorem-ipsum
   addTitleSuffix: false
   metaTags: []
