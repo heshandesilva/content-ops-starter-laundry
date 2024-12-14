@@ -53,10 +53,11 @@ isFeatured: false
 isDraft: false
 seo:
   type: Seo
-  metaTitle: lorem-ipsum
+  metaTitle: Commercial Laundry Service Melbourne
   metaDescription: lorem-ipsum
-  addTitleSuffix: false
+  addTitleSuffix: true
   metaTags: []
+  socialImage: /images/pexels-ekaterinabelinskaya-4700389.jpg
 colors: bg-light-fg-dark
 styles:
   self:
