@@ -91,7 +91,9 @@ isFeatured: false
 isDraft: false
 seo:
   type: Seo
-  metaTitle: lorem-ipsum
+  metaTitle: >-
+    Industrial Cleaning Melbourne: The Ultimate Guide to Maintaining a Clean and
+    Safe Workplace
   metaDescription: lorem-ipsum
   addTitleSuffix: false
   metaTags: []
